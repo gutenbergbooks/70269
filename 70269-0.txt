@@ -15,6 +15,7 @@ Author: Theodore Dreiser
 Illustrator: Franklin Booth
 
 Release Date: March 12, 2023 [eBook #70269]
+Last Updated: May 5, 2023
 
 Language: English
 
@@ -6475,9 +6476,12 @@ wondering over the justice or injustice of life. Do you think there is
 any such thing as justice, or will you agree with Euripides, as I
 invariably feel that I must?
 
-/* “Great treasure halls hath Zeus in heaven, From whence to man strange
-dooms are given Past hope or fear. And the end looked for cometh not,
-And a path is there where no man thought. So hath it fallen here.” */
+    “Great treasure halls hath Zeus in heaven,
+  From whence to man strange dooms are given 
+    Past hope or fear.
+  And the end looked for cometh not,
+  And a path is there where no man thought. 
+    So hath it fallen here.”
 
 
 
@@ -9204,8 +9208,8 @@ atmosphere of a prosperous and yet homey and home-loving resort. My
 mother and father and sisters and brothers were so interesting to me in
 those days. As in the poem of Davidson’s,
 
-/* “The sounding cities, rich and warm Smouldered and glittered in the
-plain.” */
+  “The sounding cities, rich and warm 
+  Smouldered and glittered in the plain.”
 
 I was thirteen, fourteen, fifteen, sixteen. The sun and the air and some
 responsive chemistry which I do not understand were making my blood into
